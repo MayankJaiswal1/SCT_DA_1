@@ -3,8 +3,8 @@
 # 🛒 Superstore Sales Dashboard
 ### 📊 A Complete Business Intelligence & Data Analytics Project
 
-> **Built by:** Mayank | **Tool:** Microsoft Excel | **Dataset:** Kaggle Superstore Sales Data
-> **Internship:** SkillCraft Technology
+> **Built by:** Mayank | **Tool:** Microsoft Excel | **Dataset:** Kaggle Superstore Sales Data | 
+> **Internship:** SkillCraft Technology | 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ---
 
